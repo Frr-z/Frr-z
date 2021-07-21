@@ -4,7 +4,6 @@
 -<strong>🌱 I’m currently learning Python.</p></strong>
 -<strong>💞️ I’m looking to collaborate on Roblox games!</p></strong>
 -<strong>🕗 My timezone is GMT-3 (Brasília time).</p></strong>
-<img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif" width="130" height="130">
 
 <h2> Contact </h2>
 
@@ -13,5 +12,6 @@
  ➙ DevForum: <a href="https://devforum.roblox.com/u/frr_z/summary">Frr_z</a><p>
  ➙ Roblox Profile <a href="https://www.roblox.com/users/2528081463/profile">Frr_z</a><p>
 
+<img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif" width="300" height="230">
 
 </html>
