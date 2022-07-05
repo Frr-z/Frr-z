@@ -2,7 +2,7 @@
   <h2> About Me </h2>
 -<strong>👋 Sup, I'm Daniel Ferraz! I'm from Brazil.</p></strong>
 -<strong>🌱 I’m currently learning Javascript.</p></strong>
--<strong>💞️ I’m looking to collaborate on Roblox games!</p></strong>
+-<strong>🔨 I’m looking to collaborate on Roblox games!</p></strong>
 -<strong>🕗 My timezone is GMT-3 (Brasília time).</p></strong>
 
 <h2> Contact </h2>
